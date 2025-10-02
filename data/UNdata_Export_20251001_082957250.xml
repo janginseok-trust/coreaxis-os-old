@@ -1,0 +1,744 @@
+<ROOT>
+    <data>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2024</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Export</field>
+            <field name="Trade (USD)">683127018292</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2024</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Import</field>
+            <field name="Trade (USD)">631727134467</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2023</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Export</field>
+            <field name="Trade (USD)">631804230615</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2023</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Import</field>
+            <field name="Trade (USD)">642549800743</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2022</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Export</field>
+            <field name="Trade (USD)">683550925677</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2022</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Import</field>
+            <field name="Trade (USD)">731361419922</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2021</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Export</field>
+            <field name="Trade (USD)">644372936752</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2021</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Import</field>
+            <field name="Trade (USD)">615072659909</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2020</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Export</field>
+            <field name="Trade (USD)">512419287526</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2020</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Import</field>
+            <field name="Trade (USD)">467590776025</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2019</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Export</field>
+            <field name="Trade (USD)">542171769089</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2019</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Import</field>
+            <field name="Trade (USD)">503262910727</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2018</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Export</field>
+            <field name="Trade (USD)">604807317420</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2018</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Import</field>
+            <field name="Trade (USD)">535183373387</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2017</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Export</field>
+            <field name="Trade (USD)">573627368937</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2017</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Import</field>
+            <field name="Trade (USD)">478469167573</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2016</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Import</field>
+            <field name="Trade (USD)">406181944067</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2016</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Export</field>
+            <field name="Trade (USD)">495417715559</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2015</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Export</field>
+            <field name="Trade (USD)">526753006361</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2015</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Import</field>
+            <field name="Trade (USD)">436486934609</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2014</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Export</field>
+            <field name="Trade (USD)">573074773090</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2014</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Import</field>
+            <field name="Trade (USD)">525556977998</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2013</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Export</field>
+            <field name="Trade (USD)">559618558899</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2013</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Import</field>
+            <field name="Trade (USD)">515572970448</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2012</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Export</field>
+            <field name="Trade (USD)">547854447999</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2012</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Import</field>
+            <field name="Trade (USD)">519575597289</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2011</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Export</field>
+            <field name="Trade (USD)">555208897965</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2011</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Import</field>
+            <field name="Trade (USD)">524405223775</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2010</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Export</field>
+            <field name="Trade (USD)">466380619660</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2010</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Import</field>
+            <field name="Trade (USD)">425208007078</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2009</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Export</field>
+            <field name="Trade (USD)">363531063379</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2009</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Import</field>
+            <field name="Trade (USD)">323081674754</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2008</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Export</field>
+            <field name="Trade (USD)">422003479066</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2008</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Import</field>
+            <field name="Trade (USD)">435270540291</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2007</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Export</field>
+            <field name="Trade (USD)">371477103604</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2007</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Import</field>
+            <field name="Trade (USD)">356841657966</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2006</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Export</field>
+            <field name="Trade (USD)">325457247330</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2006</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Import</field>
+            <field name="Trade (USD)">309379478872</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2005</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Export</field>
+            <field name="Trade (USD)">284418167174</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2005</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Import</field>
+            <field name="Trade (USD)">261235582842</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2004</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Export</field>
+            <field name="Trade (USD)">253844608908</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2004</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Import</field>
+            <field name="Trade (USD)">224460924213</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2003</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Export</field>
+            <field name="Trade (USD)">193817313718</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2003</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Import</field>
+            <field name="Trade (USD)">178825838249</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2002</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Export</field>
+            <field name="Trade (USD)">162466097148</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2002</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Import</field>
+            <field name="Trade (USD)">152124371610</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2001</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Export</field>
+            <field name="Trade (USD)">150430885651</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2001</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Import</field>
+            <field name="Trade (USD)">141097085957</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2000</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Import</field>
+            <field name="Trade (USD)">160479262799</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">2000</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Export</field>
+            <field name="Trade (USD)">172267495379</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">1999</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Export</field>
+            <field name="Trade (USD)">143685399426</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">1999</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Import</field>
+            <field name="Trade (USD)">119751244431</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">1998</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Export</field>
+            <field name="Trade (USD)">132302323712</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">1998</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Import</field>
+            <field name="Trade (USD)">93280911360</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">1997</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Export</field>
+            <field name="Trade (USD)">136151023616</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">1997</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Import</field>
+            <field name="Trade (USD)">144614211584</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">1996</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Export</field>
+            <field name="Trade (USD)">129712545792</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">1996</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Import</field>
+            <field name="Trade (USD)">150334291968</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">1995</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Export</field>
+            <field name="Trade (USD)">125056450560</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">1995</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Import</field>
+            <field name="Trade (USD)">135112900608</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">1994</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Import</field>
+            <field name="Trade (USD)">102342533120</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">1994</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Export</field>
+            <field name="Trade (USD)">96007667712</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">1993</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Export</field>
+            <field name="Trade (USD)">82232115200</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">1993</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Import</field>
+            <field name="Trade (USD)">83793960960</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">1992</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Export</field>
+            <field name="Trade (USD)">76631449600</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">1992</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Import</field>
+            <field name="Trade (USD)">81758330880</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">1991</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Export</field>
+            <field name="Trade (USD)">71869964288</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">1991</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Import</field>
+            <field name="Trade (USD)">81519706112</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">1990</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Export</field>
+            <field name="Trade (USD)">65015704323</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">1990</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Import</field>
+            <field name="Trade (USD)">69839520986</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">1989</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Export</field>
+            <field name="Trade (USD)">62356678863</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">1989</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Import</field>
+            <field name="Trade (USD)">61455781707</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">1988</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Export</field>
+            <field name="Trade (USD)">60567859200</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rep. of Korea</field>
+            <field name="Year">1988</field>
+            <field name="Commodity">All Commodities</field>
+            <field name="Flow">Import</field>
+            <field name="Trade (USD)">51807522816</field>
+            <field name="Weight (kg)"></field>
+            <field name="Quantity Name">No Quantity</field>
+            <field name="Quantity"></field>
+        </record>
+    </data>
+</ROOT>
