@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: genome-api
+    env: node
+    plan: free
+    rootDirectory: server
+    buildCommand: ""
+    startCommand: node server.js
+    envVars:
+      - key: NODE_VERSION
+        value: 20
+    region: singapore

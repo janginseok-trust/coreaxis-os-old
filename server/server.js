@@ -2,38 +2,38 @@ const express = require("express");
 const cors = require("cors");
 const path = require("path");
 const fs = require("fs");
-const Database = require("better-sqlite3");
+
+let Database;
+try {
+  Database = require("better-sqlite3");
+} catch (err) {
+  console.warn("⚠️ better-sqlite3 not found, switching to mock mode.");
+}
 
 const app = express();
 app.use(cors());
 app.use(express.json());
 
-// ✅ DB 경로
+// ✅ DB 연결
 const dbDir = path.join(__dirname, "db");
 const dbPath = path.join(dbDir, "genome-os.sqlite");
 
-// ✅ db 폴더가 없으면 자동 생성
-if (!fs.existsSync(dbDir)) {
-  fs.mkdirSync(dbDir, { recursive: true });
-  console.log("📁 Created missing db directory");
-}
+if (!fs.existsSync(dbDir)) fs.mkdirSync(dbDir, { recursive: true });
+let db = null;
 
-let db;
-if (fs.existsSync(dbPath)) {
+if (Database && fs.existsSync(dbPath)) {
   db = new Database(dbPath);
-  console.log(`✅ Connected to SQLite at ${dbPath}`);
+  console.log(`✅ Connected to SQLite: ${dbPath}`);
 } else {
-  console.warn("⚠️ No DB file found. Starting in mock data mode.");
-  db = null;
+  console.warn("⚠️ No DB file found. Mock mode active.");
 }
 
-// ✅ 검색 API
+// ✅ 라우트
+app.get("/", (_, res) => res.send("🧬 Genome-API is alive! (mock or real mode)"));
+
 app.get("/api/search", (req, res) => {
-  if (!db) {
-    return res.json([
-      { disease_id: 0, name: "Mock Disease", summary: "No real DB file found on server." },
-    ]);
-  }
+  if (!db)
+    return res.json([{ disease_id: 0, name: "Mock Disease", summary: "No DB file found." }]);
   const q = req.query.q || "";
   const stmt = db.prepare(`
     SELECT disease_id, name, description AS summary
@@ -42,29 +42,16 @@ app.get("/api/search", (req, res) => {
     ORDER BY LENGTH(name) ASC
     LIMIT 50
   `);
-  const result = stmt.all(`%${q}%`);
-  res.json(result);
+  res.json(stmt.all(`%${q}%`));
 });
 
-// ✅ 상세 API
 app.get("/api/detail/:id", (req, res) => {
-  if (!db) {
-    return res.json({
-      disease_id: 0,
-      name: "Mock Disease",
-      description: "This is a mock response (no DB file found).",
-    });
-  }
+  if (!db)
+    return res.json({ name: "Mock Disease", description: "Mock mode active." });
   const stmt = db.prepare("SELECT * FROM diseases WHERE disease_id = ?");
   const result = stmt.get(req.params.id);
-  if (!result) return res.status(404).json({ error: "Not Found" });
-  res.json(result);
-});
-
-// ✅ 루트 응답 (Render health check용)
-app.get("/", (req, res) => {
-  res.send("🧬 Genome-OS API is running successfully (mock or real mode).");
+  res.json(result || { error: "Not found" });
 });
 
 const port = process.env.PORT || 5000;
-app.listen(port, () => console.log(`✅ API running on port ${port}`));
+app.listen(port, () => console.log(`✅ Server running on port ${port}`));
