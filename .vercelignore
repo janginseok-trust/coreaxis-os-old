@@ -1,0 +1,4 @@
+server/db/genome-os.sqlite
+server/db/genome_os.db
+server/db/init.sql
+server/db/queries/
