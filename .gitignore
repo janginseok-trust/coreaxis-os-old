@@ -7,20 +7,59 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+# Node modules
 node_modules
 dist
 dist-ssr
 *.local
 
+# Build output (Next.js)
+.next/
+out/
+.vercel/
+.cache/
+
+# Env files
+.env
+.env.local
+.env.production
+.env.development
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
 .idea
-.DS_Store
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
 *.sw?
 
-.vercel
+# TypeScript build info
+*.tsbuildinfo
+
+# SQLite database and related files (❗large files)
+server/db/genome-os.sqlite*
+server/db/genome_os.db
+server/db/*.db
+server/db/*.sqlite
+server/db/*.sqlite-wal
+server/db/*.sqlite-shm
+
+# Cache & temp
+tmp/
+temp/
+.cache/
+__pycache__/
+*.pyc
+
+# Lock files (optional)
+package-lock.json
+
+# Uploads or large local files
+uploads/
+public/demo.mp4
